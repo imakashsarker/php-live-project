@@ -1,0 +1,46 @@
+body{	
+background-color:#33FF3C;	
+}
+#header
+{
+	text-align:center;
+	background:#33FF3C;
+	height:100px;
+	width:auto;
+	color:white;
+	font-size:83px;
+}
+#content
+{
+    background:#f3d8cf;	
+    height:816px; 
+    width:auto;		
+}
+#footer
+{
+	height:23px;
+    background:#17441f;
+	width:auto;	
+	
+}
+.top_nav
+{
+	height: 25px;
+	background:#f3d8cf;
+	line-height:25px;
+	font-weight:bold;
+	text-align:center;
+	color:#E7EDE9E6;
+}
+.top_nav a{
+	
+	text-decoration:none;
+	font-weight:bold;
+	color: #eff5ed;
+	
+}
+p{
+	
+	padding: 0;
+	margin: 0;
+}
